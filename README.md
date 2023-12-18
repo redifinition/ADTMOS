@@ -1,2 +1,2 @@
 # ADTMOS
-Audio Distortion TokenGuided Deep MOS Predictor
+ADTMOS -- Synthesized Speech Quality Assessment Based on Audio Distortion Tokens
